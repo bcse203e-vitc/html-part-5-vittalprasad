@@ -1,0 +1,16 @@
+.header{
+    width: 100vw;
+    height: 200px;
+    background: linear-gradient(rgb(216, 79, 79),rgb(206, 202, 195));
+     
+}
+p{
+    background:linear-gradient(rgba(90, 210, 88, 0.906),white);
+    color: transparent;
+    background-clip: text;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    font-weight: bolder;
+    font-size: larger;
+}

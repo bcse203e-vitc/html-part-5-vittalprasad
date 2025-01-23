@@ -1,0 +1,14 @@
+.button1{
+    background: linear-gradient(red,white);
+}
+.button2:hover{
+     border: 2px solid rgb(100, 223, 43);
+}
+.button3{
+    box-shadow: 10px 10px 10px;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
